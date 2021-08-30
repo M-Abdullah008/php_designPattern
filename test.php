@@ -129,3 +129,17 @@ function arraysSum(array ...$arrays)
 }
 
 print_r(arraysSum([1,2,3], [4,5,6], [7,8,9]));
+
+class Dog{
+	public function sound(){
+		echo "Gawo";
+	}
+}
+
+Class Cat{
+	public function sound(){
+		echo "maaawo";
+	}
+}
+
+
